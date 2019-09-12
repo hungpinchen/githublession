@@ -1,10 +1,1 @@
-# GIT Lession 1 
-
-Name
------
-hungpin.chen
-grant
-
-Date
-----
-2019/09/12
+yeeeeeeeeeeeeeeeeeeeeeeee
